@@ -1,0 +1,9 @@
+data/venv/
+data/victoria/
+data/*.db
+dist/
+logs/
+node_modules/
+
+*.code-workspace
+.env
